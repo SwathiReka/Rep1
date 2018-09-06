@@ -1,3 +1,6 @@
 This is my first file
 file name is Sample.txt
 it contains only 3 lines
+hello
+hi!!
+hey!
